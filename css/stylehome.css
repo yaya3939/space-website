@@ -1,0 +1,48 @@
+body {
+  background-image: url("../assets/home/background-home-desktop.jpg");
+  /*不要忘记set back啊。。注意文件夹层级关系*/
+  margin: 0;
+}
+h2 {
+  color: #d0d6f9;
+}
+.home {
+  position: absolute;
+  width: 68px;
+  height: 3px;
+  left: 623px;
+  top: 97px;
+  margin-top: 0;
+  background: #ffffff;
+  opacity: 100;
+}
+.intro {
+  width: 450px;
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+.exp {
+  background-color: white;
+  text-align: center;
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 900px;
+  margin-top: 140px;
+}
+.par2 {
+  position: relative;
+  top: 65px;
+  font-family: "Bellefair";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 37px;
+  /* identical to box height */
+
+  letter-spacing: 2px;
+
+  color: #0b0d17;
+}
